@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" color="#00000">Aplicativo</string>
+    <string name="learn_new_words">learn new words</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="advanced">Advanced</string>
+    <string name="select_your_level">Select your level</string>
+    <string name="sobre">Sobre</string>
+    <string name="progresso">Progresso</string>
+    <string name="change_color">Change color</string>
+    <string name="save">Save</string>
+    <string name="text_read">ksdalskjdalkdjaskaksjdalksdjalkdjalksdjalkdjalksdjalkdjalksjdalkdjalksdjalkdjalksdjalksdjalksdjalksdjalkjdksdalskjdalkdjaskaksjdalksdjalkdjalksdjalkdjalksdjalkdjalksjdalkdjalksdjalkdjalksdjalksdjalksdjalksdjalkjdksdalskjdalkdjaskaksjdalksdjalkdjalksdjalkdjalksdjalkdjalksjdalkdjalksdjalkdjalksdjalksdjalksdjalksdjalkjdksdalskjdalkdjaskaksjdalksdjalkdjalksdjalkdjalksdjalkdjalksjdalkdjalksdjalkdjalksdjalksdjalksdjalksdjalkjdksdalskjdalkdjaskaksjdalksdjalkdjalksdjalkdjalksdjalkdjalksjdalkdjalksdjalkdjalksdjalksdjalksdjalksdjalkjdksdalskjdalkdjaskaksjdalksdjalkdjalksdjalkdjalksdjalkdjalksjdalkdjalksdjalkdjalksdjalksdjalksdjalksdjalkjdvvv</string>
+</resources>
